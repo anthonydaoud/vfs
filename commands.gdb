@@ -1,0 +1,10 @@
+source /gpfs/main/home/imdavis/cs167-hta/weenix/kernel/main/gdt.gdb
+source /gpfs/main/home/imdavis/cs167-hta/weenix/kernel/mm/pagetable.gdb
+source /gpfs/main/home/imdavis/cs167-hta/weenix/kernel/mm/page.py
+source /gpfs/main/home/imdavis/cs167-hta/weenix/kernel/mm/memcheck.py
+source /gpfs/main/home/imdavis/cs167-hta/weenix/kernel/mm/slab.py
+source /gpfs/main/home/imdavis/cs167-hta/weenix/kernel/proc/kthread.gdb
+source /gpfs/main/home/imdavis/cs167-hta/weenix/kernel/proc/proc.py
+source /gpfs/main/home/imdavis/cs167-hta/weenix/kernel/util/debug.py
+source /gpfs/main/home/imdavis/cs167-hta/weenix/kernel/util/list.py
+source /gpfs/main/home/imdavis/cs167-hta/weenix/kernel/vm/vmmap.gdb
